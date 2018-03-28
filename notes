@@ -4,3 +4,9 @@
 - pyaudio
 - pianohat https://learn.pimoroni.com/tutorial/piano-hat/getting-started-with-piano-hat
 
+# Things to do
+
+- Test 3 input peripherals
+- Test/Code Python wrapper for Ableton Link
+- Merge usb gadget and dac dtoverlays
+- Test rndis support
