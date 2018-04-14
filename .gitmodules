@@ -1,0 +1,3 @@
+[submodule "python-link"]
+	path = python-link
+	url = https://github.com/n1zzo/python-link
